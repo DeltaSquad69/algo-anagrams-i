@@ -9,3 +9,4 @@ console.log(ana.isCharacterMatch('abcde2', 'c2abed') === true);
 
 console.log("This test is for the challenge quesiton");
 console.log(ana.isCharacterMatch('Anna Madrigal', 'A man and a girl') === true);
+console.log(ana.isCharacterMatch('aab', 'abb'))
